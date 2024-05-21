@@ -1,0 +1,16 @@
+Features of JAVA
+-----------------------
+Java is a network-centric, object-oriented, multi-platform language that may function as a platform unto itself.
+It is an incredibly fast, safe, and dependable programming language that can be used to code anything from server-side technologies and big data applications to enterprise software and mobile apps.
+A List of important Java features are given below:
+  ->Simple
+  ->Object-Oriented
+  ->Portable
+  ->Platform independent
+  ->Secured
+  ->Robust
+  ->Architecture neutral
+  ->Interpreted
+  ->High Performance
+  ->Multithreaded
+  ->Distributed
